@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TarakNerella
-- 👀 I’m interested in developing webpages 
-- 🌱 I’m currently learning ReactJS
+- 👋 Hi, I’m Tarak Krishna Nerella
+- 👀 I’m interested in developing web applications using salesforce and ReactJS
+- 🌱 I’m currently learning Salesforce, ReactJS
 - 📫 Reach me through ntk05071998@gmail.com
 
 <!---
